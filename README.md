@@ -18,9 +18,9 @@ Kuralların girmediği detaylar var. Bu detayları kendimiz doldurmak durumunday
    Üçünü kurala göre **rt** de **u** ile hece yapar. Bu ikisi birleştirilecek ve nihai **-murt** hecesi saptanacak. Yani iki adımda bir hece bulundu.
    Fakat _a-ra-ba_ örneğinde bu durum yok, tek adımda hece bulunuyor.
    
-1. **Ünlü arasında olmayan ünsüzler nasıl işlenecek?**  
+1. **Ünlüler arasında olmayan ünsüz nasıl işlenecek?**  
    Sözcük başında ve sonunda bulunan ünsüzler hiçbir kurala uymuyor. Bunlar kendine en yakın heceye eklemlenecek gibi kabul ediyoruz.
    
-1. **Ünsüz arasında olmayan ünlüler (yanyana iki ünlü) nasıl işlenecek?**  
+1. **Ünsüzler arasında olmayan ünlü (yanyana iki ünlü) nasıl işlenecek?**  
    _Kaide_ sözcüğünü ele alalım. Hiçbir kurala uymadığı için **K** harfini atladık. **d** harfi birinci kurala göre **e** ile hece yaptı.
    Geriye kalan **Kai** hangi kurala göre hecelenecek? Benzer durum **fiil**, **şiir**, **nail** gibi sözcüklerde de var: hiçbir kurala uymadıkları için baştaki ve sondaki ünsüzleri atladık, geriye yanyana iki ünlü kaldı, hangi kurala göre heceleme yapılacak?
