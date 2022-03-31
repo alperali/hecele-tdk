@@ -8,7 +8,7 @@ Kurum, üç adet kural belirtmiştir:
 3. Kelime içinde yan yana gelen üç ünsüz harften ilk ikisi kendinden önceki ünlüyle, üçüncüsü kendinden sonraki ünlüyle hece kurar: _alt-lık, Türk-çe, kork-mak_ vb.
 
 ### Analiz
-Kuralların girmediği detaylar var. Bu detayları kendimiz doldurmak durumundayız.
+Kuralların girmediği detaylar var.
 1. **Sözcüğe baştan mı yoksa sondan mı bakılarak heceler kurulacak? Belli değil.**  
    Kurallar bir tür kümeleme (_clustering_) tekniği ima etmektedir. Halbuki bilgisayarda metinler _string_ olarak tutulur, yani kümeli değil sıralı (_sequential_) bir veri yapısıdır, iteratif işlenirler. Kümeleyici anlatımı bu yapıya uyarlamak durumundayız.
    Baştan veya sondan fark etmez. Baştan yani okuma yönünde giderek heceleme yapan bir çözüm olsun.
