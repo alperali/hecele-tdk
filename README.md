@@ -24,3 +24,8 @@ Kuralların girmediği detaylar var. Bu detayları kendimiz doldurmak durumunday
 1. **Ünsüzler arasında olmayan ünlü (yanyana iki ünlü) nasıl işlenecek?**  
    _Kaide_ sözcüğünü ele alalım. Hiçbir kurala uymadığı için **K** harfini atladık. **d** harfi birinci kurala göre **e** ile hece yaptı.
    Geriye kalan **Kai** hangi kurala göre hecelenecek? Benzer durum **fiil**, **şiir**, **nail** gibi sözcüklerde de var: hiçbir kurala uymadıkları için baştaki ve sondaki ünsüzleri atladık, geriye yanyana iki ünlü kaldı, hangi kurala göre heceleme yapılacak?
+   
+1. **Bazı birleşik sözcükler ve yabancı kökenli terimlerde kurallar doğru işlemiyor.**  
+   _Vanspor_ , _Demirspor_ , _Trabzonspor_ , _Şokokrem_ gibi birleşikler üçüncü kurala göre heceleniyor ve istenmeyen sonuçlar elde ediyoruz: Vans-por, Demirs-por, Trabzons-por, Şokok-rem.
+   Yine _Elektrik_, _Elektronik_ gibi terimler üçüncü kurala göre heceleniyor ve yanlış sonuç veriyor: Elekt-rik, Elekt-ronik.
+   
