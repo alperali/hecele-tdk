@@ -29,3 +29,4 @@ Kuralların girmediği detaylar var.
    _Vanspor_ , _Demirspor_ , _Trabzonspor_ , _Şokokrem_ gibi birleşikler üçüncü kurala göre heceleniyor ve istenmeyen sonuçlar elde ediyoruz: Vans-por, Demirs-por, Trabzons-por, Şokok-rem.
    Yine _Elektrik_, _Elektronik_ gibi terimler üçüncü kurala göre heceleniyor ve yanlış sonuç veriyor: Elekt-rik, Elekt-ronik.
    
+Bu sorunlara resmi çözümler ortaya konulmadan bir algoritmanın oluşturulması mümkün görülmemektedir. Türkçe heceleme için özgün https://github.com/alperali/hecele çözümü halen mevcuttur.
